@@ -1,0 +1,30 @@
+name: personal_trainer_ia_completo
+description: Personal Trainer IA completo, baseado no HTML funcional oficial.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=3.10.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.14.1
+  url_launcher: ^6.3.2
+  path_provider: ^2.1.5
+  share_plus: ^12.0.1
+  firebase_core: ^4.2.1
+  firebase_auth: ^6.1.2
+  cloud_firestore: ^6.1.0
+  firebase_storage: ^13.0.4
+  in_app_purchase: ^3.2.3
+  file_picker: ^10.3.7
+  permission_handler: ^12.0.1
+  package_info_plus: ^9.0.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/web/
+    - assets/data/

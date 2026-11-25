@@ -1,0 +1,39 @@
+name: Build Personal Trainer IA Completo
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, migracao-app-completo]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+      - name: Validar HTML funcional
+        run: |
+          test -f assets/web/personal_ia.html
+          SIZE=$(stat -c%s assets/web/personal_ia.html)
+          if [ "$SIZE" -lt 1000000 ]; then echo "ERRO: importe o HTML-base com tools/importar_html_base.sh"; exit 1; fi
+      - name: Gerar projeto Android limpo
+        run: flutter create --platforms=android --org com.personaltrainer .
+      - name: Aplicar integração Android nativa
+        run: bash tools/configure_android.sh
+      - run: flutter pub get
+      - run: dart format --output=none --set-exit-if-changed lib test
+      - run: flutter analyze
+      - run: flutter test
+      - run: flutter build apk --release --split-per-abi
+      - run: flutter build appbundle --release
+      - uses: actions/upload-artifact@v4
+        with:
+          name: personal-trainer-ia-completo-android
+          path: |
+            build/app/outputs/flutter-apk/*release.apk
+            build/app/outputs/bundle/release/app-release.aab

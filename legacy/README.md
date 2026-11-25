@@ -1,0 +1,1 @@
+Coloque aqui a cópia imutável do HTML-base após executar tools/importar_html_base.sh.

@@ -1,0 +1,4804 @@
+[
+  {
+    "id": "supino_inclinado_halteres",
+    "legacyOrder": 1,
+    "namePtBr": "Supino inclinado halteres",
+    "category": "Peito",
+    "equipment": [
+      "Halteres"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino inclinado halteres",
+      "peito"
+    ]
+  },
+  {
+    "id": "terra_romeno",
+    "legacyOrder": 2,
+    "namePtBr": "Terra romeno",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "terra romeno",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "desenvolvimento_halteres",
+    "legacyOrder": 3,
+    "namePtBr": "Desenvolvimento halteres",
+    "category": "Ombros",
+    "equipment": [
+      "Halteres"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "desenvolvimento halteres",
+      "ombros"
+    ]
+  },
+  {
+    "id": "barra_fixa_ou_graviton",
+    "legacyOrder": 4,
+    "namePtBr": "Barra fixa ou graviton",
+    "category": "Costas",
+    "equipment": [
+      "Máquina",
+      "Barra fixa"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "barra fixa ou graviton",
+      "costas"
+    ]
+  },
+  {
+    "id": "remada_curvada",
+    "legacyOrder": 5,
+    "namePtBr": "Remada curvada",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada curvada",
+      "costas"
+    ]
+  },
+  {
+    "id": "panturrilha_em_pe",
+    "legacyOrder": 6,
+    "namePtBr": "Panturrilha em pé",
+    "category": "Panturrilhas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Gastrocnêmio",
+      "Sóleo"
+    ],
+    "secondaryMuscles": [
+      "Tibial posterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "panturrilha em pé",
+      "panturrilhas"
+    ]
+  },
+  {
+    "id": "supino_reto_barra",
+    "legacyOrder": 7,
+    "namePtBr": "Supino reto barra",
+    "category": "Peito",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino reto barra",
+      "peito"
+    ]
+  },
+  {
+    "id": "leg_press",
+    "legacyOrder": 8,
+    "namePtBr": "Leg press",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "leg press",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "elevacao_lateral",
+    "legacyOrder": 9,
+    "namePtBr": "Elevação lateral",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação lateral",
+      "ombros"
+    ]
+  },
+  {
+    "id": "rosca_direta",
+    "legacyOrder": 10,
+    "namePtBr": "Rosca direta",
+    "category": "Bíceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca direta",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "agachamento_livre",
+    "legacyOrder": 11,
+    "namePtBr": "Agachamento livre",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "agachamento livre",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "triceps_corda",
+    "legacyOrder": 12,
+    "namePtBr": "Tríceps corda",
+    "category": "Tríceps",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "tríceps corda",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "rosca_martelo",
+    "legacyOrder": 13,
+    "namePtBr": "Rosca martelo",
+    "category": "Bíceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca martelo",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "abdominal_cabo",
+    "legacyOrder": 14,
+    "namePtBr": "Abdominal cabo",
+    "category": "Core",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "abdominal cabo",
+      "core"
+    ]
+  },
+  {
+    "id": "hack_squat",
+    "legacyOrder": 15,
+    "namePtBr": "Hack squat",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hack squat",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "paralelas_ou_maquina_peito",
+    "legacyOrder": 16,
+    "namePtBr": "Paralelas ou máquina peito",
+    "category": "Peito",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "paralelas ou máquina peito",
+      "peito"
+    ]
+  },
+  {
+    "id": "remada_baixa",
+    "legacyOrder": 17,
+    "namePtBr": "Remada baixa",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada baixa",
+      "costas"
+    ]
+  },
+  {
+    "id": "mesa_flexora",
+    "legacyOrder": 18,
+    "namePtBr": "Mesa flexora",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "mesa flexora",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "crucifixo_maquina",
+    "legacyOrder": 19,
+    "namePtBr": "Crucifixo máquina",
+    "category": "Peito",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "crucifixo máquina",
+      "peito"
+    ]
+  },
+  {
+    "id": "triceps_frances",
+    "legacyOrder": 20,
+    "namePtBr": "Tríceps francês",
+    "category": "Tríceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "tríceps francês",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "panturrilha_sentado",
+    "legacyOrder": 21,
+    "namePtBr": "Panturrilha sentado",
+    "category": "Panturrilhas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Gastrocnêmio",
+      "Sóleo"
+    ],
+    "secondaryMuscles": [
+      "Tibial posterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "panturrilha sentado",
+      "panturrilhas"
+    ]
+  },
+  {
+    "id": "agachamento_frontal",
+    "legacyOrder": 22,
+    "namePtBr": "Agachamento frontal",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "agachamento frontal",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "supino_reto_halteres",
+    "legacyOrder": 23,
+    "namePtBr": "Supino reto halteres",
+    "category": "Peito",
+    "equipment": [
+      "Halteres"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino reto halteres",
+      "peito"
+    ]
+  },
+  {
+    "id": "remada_cavalinho",
+    "legacyOrder": 24,
+    "namePtBr": "Remada cavalinho",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada cavalinho",
+      "costas"
+    ]
+  },
+  {
+    "id": "arnold_press",
+    "legacyOrder": 25,
+    "namePtBr": "Arnold press",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "arnold press",
+      "ombros"
+    ]
+  },
+  {
+    "id": "rosca_scott",
+    "legacyOrder": 26,
+    "namePtBr": "Rosca Scott",
+    "category": "Bíceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca scott",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "triceps_testa",
+    "legacyOrder": 27,
+    "namePtBr": "Tríceps testa",
+    "category": "Tríceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "tríceps testa",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "stiff_halteres",
+    "legacyOrder": 28,
+    "namePtBr": "Stiff halteres",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Halteres",
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "stiff halteres",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "supino_inclinado_maquina",
+    "legacyOrder": 29,
+    "namePtBr": "Supino inclinado máquina",
+    "category": "Peito",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino inclinado máquina",
+      "peito"
+    ]
+  },
+  {
+    "id": "puxada_neutra",
+    "legacyOrder": 30,
+    "namePtBr": "Puxada neutra",
+    "category": "Costas",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "puxada neutra",
+      "costas"
+    ]
+  },
+  {
+    "id": "face_pull",
+    "legacyOrder": 31,
+    "namePtBr": "Face pull",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "face pull",
+      "ombros"
+    ]
+  },
+  {
+    "id": "leg_press_45",
+    "legacyOrder": 32,
+    "namePtBr": "Leg press 45",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "leg press 45",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "crossover",
+    "legacyOrder": 33,
+    "namePtBr": "Crossover",
+    "category": "Peito",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "crossover",
+      "peito"
+    ]
+  },
+  {
+    "id": "remada_serrote",
+    "legacyOrder": 34,
+    "namePtBr": "Remada serrote",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada serrote",
+      "costas"
+    ]
+  },
+  {
+    "id": "flexora_unilateral",
+    "legacyOrder": 35,
+    "namePtBr": "Flexora unilateral",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "flexora unilateral",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "elevacao_lateral_cabo",
+    "legacyOrder": 36,
+    "namePtBr": "Elevação lateral cabo",
+    "category": "Ombros",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação lateral cabo",
+      "ombros"
+    ]
+  },
+  {
+    "id": "panturrilha_no_leg",
+    "legacyOrder": 37,
+    "namePtBr": "Panturrilha no leg",
+    "category": "Panturrilhas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Gastrocnêmio",
+      "Sóleo"
+    ],
+    "secondaryMuscles": [
+      "Tibial posterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "panturrilha no leg",
+      "panturrilhas"
+    ]
+  },
+  {
+    "id": "puxada_frontal",
+    "legacyOrder": 38,
+    "namePtBr": "Puxada frontal",
+    "category": "Costas",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "puxada frontal",
+      "costas"
+    ]
+  },
+  {
+    "id": "stiff",
+    "legacyOrder": 39,
+    "namePtBr": "Stiff",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "stiff",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "supino_inclinado_barra",
+    "legacyOrder": 40,
+    "namePtBr": "Supino inclinado barra",
+    "category": "Peito",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino inclinado barra",
+      "peito"
+    ]
+  },
+  {
+    "id": "desenvolvimento_maquina",
+    "legacyOrder": 41,
+    "namePtBr": "Desenvolvimento máquina",
+    "category": "Ombros",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "desenvolvimento máquina",
+      "ombros"
+    ]
+  },
+  {
+    "id": "afundo",
+    "legacyOrder": 42,
+    "namePtBr": "Afundo",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "afundo",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "flexora_sentada",
+    "legacyOrder": 43,
+    "namePtBr": "Flexora sentada",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "flexora sentada",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "hip_thrust",
+    "legacyOrder": 44,
+    "namePtBr": "Hip thrust",
+    "category": "Glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hip thrust",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "prancha",
+    "legacyOrder": 45,
+    "namePtBr": "Prancha",
+    "category": "Core",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "prancha",
+      "core"
+    ]
+  },
+  {
+    "id": "pulldown_braco_reto",
+    "legacyOrder": 46,
+    "namePtBr": "Pulldown braço reto",
+    "category": "Costas",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "pulldown braço reto",
+      "costas"
+    ]
+  },
+  {
+    "id": "desenvolvimento_barra",
+    "legacyOrder": 47,
+    "namePtBr": "Desenvolvimento barra",
+    "category": "Ombros",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "desenvolvimento barra",
+      "ombros"
+    ]
+  },
+  {
+    "id": "triceps_banco_ou_maquina",
+    "legacyOrder": 48,
+    "namePtBr": "Tríceps banco ou máquina",
+    "category": "Tríceps",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "tríceps banco ou máquina",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "leg_press_pes_baixos",
+    "legacyOrder": 49,
+    "namePtBr": "Leg press pés baixos",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "leg press pés baixos",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "bulgaro",
+    "legacyOrder": 50,
+    "namePtBr": "Búlgaro",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "búlgaro",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "good_morning",
+    "legacyOrder": 51,
+    "namePtBr": "Good morning",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "good morning",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "gluteo_maquina",
+    "legacyOrder": 52,
+    "namePtBr": "Glúteo máquina",
+    "category": "Glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "glúteo máquina",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "paralelas",
+    "legacyOrder": 53,
+    "namePtBr": "Paralelas",
+    "category": "Tríceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "paralelas",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "desenvolvimento_militar",
+    "legacyOrder": 54,
+    "namePtBr": "Desenvolvimento militar",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "desenvolvimento militar",
+      "ombros"
+    ]
+  },
+  {
+    "id": "elevacao_posterior",
+    "legacyOrder": 55,
+    "namePtBr": "Elevação posterior",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação posterior",
+      "ombros"
+    ]
+  },
+  {
+    "id": "encolhimento",
+    "legacyOrder": 56,
+    "namePtBr": "Encolhimento",
+    "category": "Trapézio",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Trapézio superior"
+    ],
+    "secondaryMuscles": [
+      "Levantador da escápula"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "encolhimento",
+      "trapézio"
+    ]
+  },
+  {
+    "id": "peck_deck",
+    "legacyOrder": 57,
+    "namePtBr": "Peck deck",
+    "category": "Peito",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "peck deck",
+      "peito"
+    ]
+  },
+  {
+    "id": "puxada_aberta",
+    "legacyOrder": 58,
+    "namePtBr": "Puxada aberta",
+    "category": "Costas",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "puxada aberta",
+      "costas"
+    ]
+  },
+  {
+    "id": "supino_halteres",
+    "legacyOrder": 59,
+    "namePtBr": "Supino halteres",
+    "category": "Peito",
+    "equipment": [
+      "Halteres"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino halteres",
+      "peito"
+    ]
+  },
+  {
+    "id": "rosca_inversa",
+    "legacyOrder": 60,
+    "namePtBr": "Rosca inversa",
+    "category": "Bíceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca inversa",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "rosca_martelo_corda",
+    "legacyOrder": 61,
+    "namePtBr": "Rosca martelo corda",
+    "category": "Bíceps",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca martelo corda",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "elevacao_lateral_parcial",
+    "legacyOrder": 62,
+    "namePtBr": "Elevação lateral parcial",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação lateral parcial",
+      "ombros"
+    ]
+  },
+  {
+    "id": "hip_thrust_barra",
+    "legacyOrder": 63,
+    "namePtBr": "Hip thrust barra",
+    "category": "Glúteos",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hip thrust barra",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "cadeira_extensora",
+    "legacyOrder": 64,
+    "namePtBr": "Cadeira extensora",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "cadeira extensora",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "rosca_alternada",
+    "legacyOrder": 65,
+    "namePtBr": "Rosca alternada",
+    "category": "Bíceps",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Bíceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Braquial",
+      "Braquiorradial"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "rosca alternada",
+      "bíceps"
+    ]
+  },
+  {
+    "id": "crunch_maquina",
+    "legacyOrder": 66,
+    "namePtBr": "Crunch máquina",
+    "category": "Core",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "crunch máquina",
+      "core"
+    ]
+  },
+  {
+    "id": "supino_maquina_ou_halteres",
+    "legacyOrder": 67,
+    "namePtBr": "Supino máquina ou halteres",
+    "category": "Peito",
+    "equipment": [
+      "Halteres",
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino máquina ou halteres",
+      "peito"
+    ]
+  },
+  {
+    "id": "abducao_de_quadril_maquina",
+    "legacyOrder": 68,
+    "namePtBr": "Abdução de quadril máquina",
+    "category": "Glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "abdução de quadril máquina",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "gluteo_no_cabo",
+    "legacyOrder": 69,
+    "namePtBr": "Glúteo no cabo",
+    "category": "Glúteos",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "glúteo no cabo",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "hip_thrust_maquina",
+    "legacyOrder": 70,
+    "namePtBr": "Hip thrust máquina",
+    "category": "Glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hip thrust máquina",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "abducao_no_cabo",
+    "legacyOrder": 71,
+    "namePtBr": "Abdução no cabo",
+    "category": "Glúteos",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "abdução no cabo",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "leg_press_pes_altos",
+    "legacyOrder": 72,
+    "namePtBr": "Leg press pés altos",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "leg press pés altos",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "kickback_maquina",
+    "legacyOrder": 73,
+    "namePtBr": "Kickback máquina",
+    "category": "Glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "kickback máquina",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "passada_caminhando",
+    "legacyOrder": 74,
+    "namePtBr": "Passada caminhando",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "passada caminhando",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "remada_apoiada",
+    "legacyOrder": 75,
+    "namePtBr": "Remada apoiada",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada apoiada",
+      "costas"
+    ]
+  },
+  {
+    "id": "elevacao_pelvica_unilateral",
+    "legacyOrder": 76,
+    "namePtBr": "Elevação pélvica unilateral",
+    "category": "Glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação pélvica unilateral",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "abducao_maquina",
+    "legacyOrder": 77,
+    "namePtBr": "Abdução máquina",
+    "category": "Glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "abdução máquina",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "supino_maquina",
+    "legacyOrder": 78,
+    "namePtBr": "Supino máquina",
+    "category": "Peito",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino máquina",
+      "peito"
+    ]
+  },
+  {
+    "id": "passada_no_smith",
+    "legacyOrder": 79,
+    "namePtBr": "Passada no Smith",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Smith"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "passada no smith",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "extensora_unilateral",
+    "legacyOrder": 80,
+    "namePtBr": "Extensora unilateral",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "extensora unilateral",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "remada_baixa_neutra",
+    "legacyOrder": 81,
+    "namePtBr": "Remada baixa neutra",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada baixa neutra",
+      "costas"
+    ]
+  },
+  {
+    "id": "bulgaro_inclinado",
+    "legacyOrder": 82,
+    "namePtBr": "Búlgaro inclinado",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "búlgaro inclinado",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "frog_pump_com_carga",
+    "legacyOrder": 83,
+    "namePtBr": "Frog pump com carga",
+    "category": "Glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "frog pump com carga",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "step_up",
+    "legacyOrder": 84,
+    "namePtBr": "Step-up",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "step-up",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "passada_longa",
+    "legacyOrder": 85,
+    "namePtBr": "Passada longa",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "passada longa",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "gluteo_no_banco_romano",
+    "legacyOrder": 86,
+    "namePtBr": "Glúteo no banco romano",
+    "category": "Glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "glúteo no banco romano",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "prancha_lateral",
+    "legacyOrder": 87,
+    "namePtBr": "Prancha lateral",
+    "category": "Core",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "prancha lateral",
+      "core"
+    ]
+  },
+  {
+    "id": "hip_thrust_halteres",
+    "legacyOrder": 88,
+    "namePtBr": "Hip thrust halteres",
+    "category": "Glúteos",
+    "equipment": [
+      "Halteres"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hip thrust halteres",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "abducao_polia",
+    "legacyOrder": 89,
+    "namePtBr": "Abdução polia",
+    "category": "Glúteos",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "abdução polia",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "afundo_no_smith",
+    "legacyOrder": 90,
+    "namePtBr": "Afundo no Smith",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Smith"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "afundo no smith",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "gluteo_cabo_diagonal",
+    "legacyOrder": 91,
+    "namePtBr": "Glúteo cabo diagonal",
+    "category": "Glúteos",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "glúteo cabo diagonal",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "stiff_barra",
+    "legacyOrder": 92,
+    "namePtBr": "Stiff barra",
+    "category": "Posterior de coxa",
+    "equipment": [
+      "Barra"
+    ],
+    "primaryMuscles": [
+      "Isquiotibiais"
+    ],
+    "secondaryMuscles": [
+      "Glúteo máximo",
+      "Eretores da coluna"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "stiff barra",
+      "posterior de coxa"
+    ]
+  },
+  {
+    "id": "crossover_no_cabo",
+    "legacyOrder": 93,
+    "namePtBr": "Crossover no cabo",
+    "category": "Peito",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "crossover no cabo",
+      "peito"
+    ]
+  },
+  {
+    "id": "barra_fixa",
+    "legacyOrder": 94,
+    "namePtBr": "Barra fixa",
+    "category": "Costas",
+    "equipment": [
+      "Barra fixa"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "barra fixa",
+      "costas"
+    ]
+  },
+  {
+    "id": "remada_unilateral",
+    "legacyOrder": 95,
+    "namePtBr": "Remada unilateral",
+    "category": "Costas",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Latíssimo do dorso"
+    ],
+    "secondaryMuscles": [
+      "Romboides",
+      "Trapézio",
+      "Bíceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "remada unilateral",
+      "costas"
+    ]
+  },
+  {
+    "id": "elevacao_frontal",
+    "legacyOrder": 96,
+    "namePtBr": "Elevação frontal",
+    "category": "Ombros",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Deltoides"
+    ],
+    "secondaryMuscles": [
+      "Trapézio",
+      "Manguito rotador",
+      "Tríceps"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação frontal",
+      "ombros"
+    ]
+  },
+  {
+    "id": "supino_fechado",
+    "legacyOrder": 97,
+    "namePtBr": "Supino fechado",
+    "category": "Peito",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "supino fechado",
+      "peito"
+    ]
+  },
+  {
+    "id": "agachamento_bulgaro",
+    "legacyOrder": 98,
+    "namePtBr": "Agachamento búlgaro",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "agachamento búlgaro",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "paralelas_foco_peito",
+    "legacyOrder": 99,
+    "namePtBr": "Paralelas foco peito",
+    "category": "Peito",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Peitoral maior"
+    ],
+    "secondaryMuscles": [
+      "Tríceps",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 120,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "paralelas foco peito",
+      "peito"
+    ]
+  },
+  {
+    "id": "elevacao_pelvica",
+    "legacyOrder": 100,
+    "namePtBr": "Elevação pélvica",
+    "category": "Glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Glúteo máximo"
+    ],
+    "secondaryMuscles": [
+      "Glúteo médio",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação pélvica",
+      "glúteos"
+    ]
+  },
+  {
+    "id": "coice_no_cabo",
+    "legacyOrder": 101,
+    "namePtBr": "Coice no cabo",
+    "category": "Tríceps",
+    "equipment": [
+      "Polia"
+    ],
+    "primaryMuscles": [
+      "Tríceps braquial"
+    ],
+    "secondaryMuscles": [
+      "Ancôneo",
+      "Deltoide anterior"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 75,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "coice no cabo",
+      "tríceps"
+    ]
+  },
+  {
+    "id": "panturrilha_no_leg_press",
+    "legacyOrder": 102,
+    "namePtBr": "Panturrilha no leg press",
+    "category": "Quadríceps e glúteos",
+    "equipment": [
+      "Máquina"
+    ],
+    "primaryMuscles": [
+      "Quadríceps"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Adutores"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 150,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "panturrilha no leg press",
+      "quadríceps e glúteos"
+    ]
+  },
+  {
+    "id": "elevacao_de_pernas",
+    "legacyOrder": 103,
+    "namePtBr": "Elevação de pernas",
+    "category": "Core",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "elevação de pernas",
+      "core"
+    ]
+  },
+  {
+    "id": "ab_wheel",
+    "legacyOrder": 104,
+    "namePtBr": "Ab wheel",
+    "category": "Core",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Reto abdominal",
+      "Transverso abdominal"
+    ],
+    "secondaryMuscles": [
+      "Oblíquos",
+      "Estabilizadores do tronco"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 60,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "ab wheel",
+      "core"
+    ]
+  },
+  {
+    "id": "hiperextensao_lombar",
+    "legacyOrder": 105,
+    "namePtBr": "Hiperextensão lombar",
+    "category": "Lombar e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Eretores da coluna"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "hiperextensão lombar",
+      "lombar e glúteos"
+    ]
+  },
+  {
+    "id": "banco_romano",
+    "legacyOrder": 106,
+    "namePtBr": "Banco romano",
+    "category": "Lombar e glúteos",
+    "equipment": [
+      "Peso corporal ou equipamento específico"
+    ],
+    "primaryMuscles": [
+      "Eretores da coluna"
+    ],
+    "secondaryMuscles": [
+      "Glúteos",
+      "Isquiotibiais"
+    ],
+    "difficulty": "Intermediário",
+    "setsDefault": 3,
+    "repsMin": 8,
+    "repsMax": 12,
+    "rirDefault": 2,
+    "restSeconds": 90,
+    "instructions": [
+      "Ajuste o equipamento e organize uma posição inicial estável.",
+      "Execute a fase ativa com amplitude segura e sem impulso.",
+      "Retorne de forma controlada, mantendo o alinhamento das articulações."
+    ],
+    "commonErrors": [
+      "Usar carga acima do controle técnico.",
+      "Reduzir a amplitude segura ou compensar com outras articulações."
+    ],
+    "substitutions": [],
+    "media": {
+      "thumbnail": "",
+      "execution": "",
+      "muscles": "",
+      "video": ""
+    },
+    "version": 1,
+    "status": "published",
+    "source": "html_base",
+    "searchTerms": [
+      "banco romano",
+      "lombar e glúteos"
+    ]
+  }
+]
