@@ -14,17 +14,17 @@ class PersonalTrainerIaApp extends StatelessWidget {
   const PersonalTrainerIaApp({super.key});
   @override
   Widget build(BuildContext context) => MaterialApp(
-        title: 'Personal Trainer IA',
-        debugShowCheckedModeBanner: false,
-        theme: ThemeData.dark(useMaterial3: true).copyWith(
-          scaffoldBackgroundColor: const Color(0xFF071117),
-          colorScheme: ColorScheme.fromSeed(
-            seedColor: const Color(0xFF23C7A7),
-            brightness: Brightness.dark,
-          ),
-        ),
-        home: const LegacyAppHost(),
-      );
+    title: 'Personal Trainer IA',
+    debugShowCheckedModeBanner: false,
+    theme: ThemeData.dark(useMaterial3: true).copyWith(
+      scaffoldBackgroundColor: const Color(0xFF071117),
+      colorScheme: ColorScheme.fromSeed(
+        seedColor: const Color(0xFF23C7A7),
+        brightness: Brightness.dark,
+      ),
+    ),
+    home: const LegacyAppHost(),
+  );
 }
 
 class LegacyAppHost extends StatefulWidget {
@@ -44,20 +44,25 @@ class _LegacyAppHostState extends State<LegacyAppHost> {
     controller = WebViewController()
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
       ..setBackgroundColor(const Color(0xFF071117))
-      ..setNavigationDelegate(NavigationDelegate(
-        onProgress: (value) => setState(() => progress = value),
-        onPageFinished: (_) async {
-          await _installCompatibilityBridge();
-          await native.invokeMethod<void>('consumeFinishedRest');
-        },
-        onNavigationRequest: (request) async {
-          if (request.url.startsWith('http')) {
-            await launchUrl(Uri.parse(request.url), mode: LaunchMode.externalApplication);
-            return NavigationDecision.prevent;
-          }
-          return NavigationDecision.navigate;
-        },
-      ))
+      ..setNavigationDelegate(
+        NavigationDelegate(
+          onProgress: (value) => setState(() => progress = value),
+          onPageFinished: (_) async {
+            await _installCompatibilityBridge();
+            await native.invokeMethod<void>('consumeFinishedRest');
+          },
+          onNavigationRequest: (request) async {
+            if (request.url.startsWith('http')) {
+              await launchUrl(
+                Uri.parse(request.url),
+                mode: LaunchMode.externalApplication,
+              );
+              return NavigationDecision.prevent;
+            }
+            return NavigationDecision.navigate;
+          },
+        ),
+      )
       ..addJavaScriptChannel('AndroidBridge', onMessageReceived: _handleBridge)
       ..loadFlutterAsset('assets/web/personal_ia.html');
     native.setMethodCallHandler((call) async {
@@ -96,21 +101,31 @@ class _LegacyAppHostState extends State<LegacyAppHost> {
       final data = jsonDecode(message.message) as Map<String, dynamic>;
       switch (data['type']) {
         case 'scheduleRest':
-          await native.invokeMethod('scheduleRest', {'endAt': (data['endAt'] as num).toInt()});
+          await native.invokeMethod('scheduleRest', {
+            'endAt': (data['endAt'] as num).toInt(),
+          });
         case 'cancelRest':
           await native.invokeMethod('cancelRest');
         case 'vibrate':
-          await native.invokeMethod('vibrate', {'ms': (data['ms'] as num?)?.toInt() ?? 400});
+          await native.invokeMethod('vibrate', {
+            'ms': (data['ms'] as num?)?.toInt() ?? 400,
+          });
         case 'beep':
           await native.invokeMethod('beep');
         case 'openUrl':
           final uri = Uri.tryParse(data['url'] as String? ?? '');
-          if (uri != null) await launchUrl(uri, mode: LaunchMode.externalApplication);
+          if (uri != null) {
+            await launchUrl(uri, mode: LaunchMode.externalApplication);
+          }
         case 'share':
           final directory = await getTemporaryDirectory();
-          final file = File('${directory.path}/${data['name'] ?? 'personal_ia_backup.json'}');
+          final file = File(
+            '${directory.path}/${data['name'] ?? 'personal_ia_backup.json'}',
+          );
           await file.writeAsString(data['content'] as String? ?? '{}');
-          await Share.shareXFiles([XFile(file.path)], text: 'Backup Personal Trainer IA');
+          await Share.shareXFiles([
+            XFile(file.path),
+          ], text: 'Backup Personal Trainer IA');
       }
     } catch (error) {
       debugPrint('Bridge error: $error');
@@ -127,18 +142,20 @@ class _LegacyAppHostState extends State<LegacyAppHost> {
 
   @override
   Widget build(BuildContext context) => PopScope(
-        canPop: false,
-        onPopInvokedWithResult: (_, __) async {
-          if (await _back() && context.mounted) Navigator.of(context).pop();
-        },
-        child: Scaffold(
-          body: SafeArea(
-            child: Stack(children: [
-              WebViewWidget(controller: controller),
-              if (progress < 100)
-                LinearProgressIndicator(value: progress / 100, minHeight: 2),
-            ]),
-          ),
+    canPop: false,
+    onPopInvokedWithResult: (_, _) async {
+      if (await _back() && context.mounted) Navigator.of(context).pop();
+    },
+    child: Scaffold(
+      body: SafeArea(
+        child: Stack(
+          children: [
+            WebViewWidget(controller: controller),
+            if (progress < 100)
+              LinearProgressIndicator(value: progress / 100, minHeight: 2),
+          ],
         ),
-      );
+      ),
+    ),
+  );
 }
